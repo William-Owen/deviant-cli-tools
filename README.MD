@@ -1,14 +1,13 @@
 # Deviant Command Line Tools
 
-Just a quick little collection of utilities. 
+Just a quick little collection of command line utilities. 
 
 **This is not production ready and is currently work in progress.**
 
 ## Requirements
 
-- Node.js
+- Node.js (https://nodejs.org/en/)
 - NPM
-- Git
 
 ## Installation
 
