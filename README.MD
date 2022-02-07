@@ -14,11 +14,11 @@ Just a quick little collection of utilities.
 
 At the moment the way to use it is clone the repository then run 
 
-'npm i'
+```npm i```
 
 To start the tool
 
-'node tool'
+```node tool```
 
 ## Tools
 
