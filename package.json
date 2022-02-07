@@ -11,5 +11,8 @@
   "dependencies": {
     "moment": "^2.29.1",
     "prompts": "^2.4.2"
+  },
+  "bin": {
+    "tools": "cli.js"
   }
 }
